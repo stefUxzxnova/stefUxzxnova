@@ -1,7 +1,7 @@
 <img align="center" alt="CodingGirl" width="1000" height="350" src="https://i.pinimg.com/originals/3f/32/0c/3f320cf5acc1754059922df2be39a08e.jpg">
 
 <h1 align="center">Hi 👋, I'm Stefani</h1>
-<h3 align="center">A passionate backend developer from Bulgaria</h3>
+<h3 align="center">A passionate Full Stack developer from Bulgaria</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stefuxzxnova" alt="stefuxzxnova" /></a> </p>
 
