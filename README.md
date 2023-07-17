@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stefuxzxnova" alt="stefuxzxnova" /></a> </p>
 
-- 🔭 I’m currently working on **Garphical Software**
+- 🔭 I’m currently working on **SkyScanner Web Api**
 
 - 🌱 I’m currently learning **.Net, C#, Java, Sql, ReactJs...**
 
